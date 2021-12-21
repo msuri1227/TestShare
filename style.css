@@ -89,7 +89,7 @@ body :-ms-input-placeholder {
     color:black;
 }
 form {
-  padding: 20px 0;
+  padding: 50px 0;
   position: relative;
   z-index: 2;
 }
