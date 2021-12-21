@@ -74,18 +74,26 @@ body :-ms-input-placeholder {
   transition-duration: 1s;
   transition-timing-function: ease-in-put;
   font-weight: 300;
-  font-family: auto;
+  font-family: 'Apple Chancery';
   color:black;
 }
 .container h2 {
   font-size: 60px;
   font-weight: 500;
   color:white;
+  font-family: 'Symbol';
+
 }
 .container h3 {
     font-size: 40px;
     font-weight: 300;
-    font-family: auto;
+    font-family: 'Apple Chancery';
+    color:black;
+}
+.container h4 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: cursive;
     color:black;
 }
 form {
